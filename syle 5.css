@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" href="styles2.css">
+    <head>
+        <title>CSS Basics</title>
+
+    </head>
+    <body>
+
+        <div id="content">
+gsfdgshdgshdgs
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint aliquam nobis facilis alias optio, dolorem consectetur unde earum! Illum vero excepturi quod deserunt ratione neque perspiciatis facilis! Ex, optio perferendis!</p>
+
+            <p class="error">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum rem harum tempore possimus ex repellat. Hic itaque dolore quasi fugiat! Sint blanditiis numquam vitae architecto harum nihil id doloribus et!</p>
+
+            <p class="success">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto sit consectetur, officiis quibusdam cum illum. Odio aliquid illum tenetur explicabo iure neque? Officiis quod atque fugiat vel eveniet id impedit.</p>
+            
+
+            <p class="success feedback">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero provident aut neque, quis dolor et ipsa nostrum, minima laborum animi dicta praesentium dolorum vel minus cumque adipisci numquam consequuntur rerum?</p>
+
+            </div>
+
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus reiciendis quas saepe sunt voluptates nisi obcaecati fugit iusto et labore sed illo minima, velit temporibus modi repellat distinctio repellendus in?</p>
+
+        
+        <div class="error">I am an error</div>
+
+        <a href="https://www.thenetninja.co.uk">the best site on the web</a>
+        <a href="https://www.google.com">google website</a>
+        <a href="https://www.thenetninja.co.uk">the best site on the web</a>
+
+    </body>
+</html>
